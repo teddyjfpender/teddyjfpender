@@ -31,3 +31,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teddyjfpender&theme=dark&background=0d1117&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyjfpender&layout=compact&theme=github_dark&hide_border=true)](https://github.com/teddyjfpender/github-readme-stats)
+
+</div>
+<div align="center">
+
+![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyjfpender&show_icons=true&theme=github_dark&hide_border=true)
+</div>
+
+
