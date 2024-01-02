@@ -1,5 +1,5 @@
 <h1>
-  hey there, glad you're here! 🤠
+  howdy, glad you're here! 🤠
 </h1>
 <p>
 i'm teddy, currently working at Mina Foundation, interested in interaction design for zero-knowledge applications, wallets, rust, and typescript.
