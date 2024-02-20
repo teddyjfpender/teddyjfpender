@@ -2,7 +2,7 @@
   howdy, glad you're here! 🤠
 </h1>
 <p>
-i'm teddy, currently working at Mina Foundation, interested in interaction design for zero-knowledge applications, wallets, rust, and typescript.
+i'm teddy, currently working in on all sorts of fun things in Web 3, interested in interaction design for zero-knowledge applications, wallets, rust, and typescript.
 
   where to find me:
   <div id="badges" align="center">
